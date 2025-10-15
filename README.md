@@ -19,7 +19,7 @@ Dit is het resultaat van de lighthouse test:
 
 Images hebben geen alt.
 Je kan niet inzoomen wat problemen kan veroorzaken voor slechtziende mensen.
-In de footer staat een regel met een slechte contrast waardoor het slecht te lezen is. Niet alle linkjes is duidelijk te zien dat je er op kan klikken. Verder is het wel mogelijk om door de website heen te gaan met tabs en blijf je niet vastlopen. alles staat logisch onder elkaar, en een screenreader kan de teksten voorlezen.
+In de footer staat een regel met een slechte contrast waardoor het slecht te lezen is. Niet alle linkjes is duidelijk te zien dat je er op kan klikken. Verder is het wel mogelijk om door de website heen te gaan met tabs en blijf je niet vastlopen. Alles staat logisch onder elkaar en een screenreader kan de teksten voorlezen.
 
 ## Licentie
 
