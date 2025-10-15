@@ -9,8 +9,11 @@ De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd
 
 dit is de website van de manege waar ik paardrijlessen volg.
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
+<img width="1897" height="867" alt="dsk" src="https://github.com/user-attachments/assets/d717af93-26b3-44df-a841-65f69fdb9b65" />
 
+dit is het resultaat van de lighthouse test.
+
+<img width="726" height="333" alt="Accessibility" src="https://github.com/user-attachments/assets/fe12122f-8e73-4bd5-8532-88f0c8da08eb" />
 
 Images hebben geen alt,
 Je kan niet inzoomen wat problemen kan veroorzaken voor slechtziende mensen,
